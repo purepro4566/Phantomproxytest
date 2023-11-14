@@ -10,7 +10,7 @@
 }
 
 * {
-    font-family: Rapier Zero Italic;
+    font-family: Rapier Zero Outline Italic;
 }
 
 body {
@@ -42,11 +42,11 @@ body {
 
 .logo-wrapper .text {
     font-size: 75px;
-    font-family: "Rapier Zero Italic";
+    font-family: "Rapier Zero Outline Italic";
     color: #FFF;
 }
 
-/* @font-face kit by Fonts2u (https://fonts2u.com) */ @font-face {font-family:"Rapier Zero Italic";src:url("Rapier_Zero_Italic.eot?") format("eot"),url("Rapier_Zero_Italic.woff") format("woff"),url("Rapier_Zero_Italic.ttf") format("truetype"),url("Rapier_Zero_Italic.svg#RapierZero-Italic") format("svg");font-weight:normal;font-style:normal;}
+/* @font-face kit by Fonts2u (https://fonts2u.com) */ @font-face {font-family:"Rapier Zero Outline Italic";src:url("Rapier_Zero_Outline_Italic.eot?") format("eot"),url("Rapier_Zero_Outline_Italic.woff") format("woff"),url("Rapier_Zero_Outline_Italic.ttf") format("truetype"),url("Rapier_Zero_Outline_Italic.svg#RapierZeroOutline-Italic") format("svg");font-weight:normal;font-style:normal;}
 
 
 .logo-wrapper h1 {
