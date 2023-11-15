@@ -39,7 +39,7 @@ body {
 .logo-wrapper .text {
     font-size: 75px;
     font-family: "Rapier Zero Outline Italic";
-    color: #FFF;
+    color: white;
 }
 
 /* @font-face kit by Fonts2u (https://fonts2u.com) */ @font-face {font-family:"Rapier Zero Outline Italic";src:url("Rapier_Zero_Outline_Italic.eot?") format("eot"),url("Rapier_Zero_Outline_Italic.woff") format("woff"),url("Rapier_Zero_Outline_Italic.ttf") format("truetype"),url("Rapier_Zero_Outline_Italic.svg#RapierZeroOutline-Italic") format("svg");font-weight:normal;font-style:normal;}
@@ -63,7 +63,7 @@ footer a,
 footer span {
     margin: 0 15px;
     text-decoration: none;
-    color: #FFF;
+    color: white;
     font-size: 15px;
 }
 
@@ -87,7 +87,7 @@ form {
 
 .desc p {
     width: 560px;
-    color: rgba(253, 253, 253, 0.514);
+    color: white;
 }
 
 form input {
@@ -95,18 +95,19 @@ form input {
     font-family: inherit;
     padding: 0px 17px;
     height: 48px;
-    border: 1px solid rgb(255, 255, 255, .2);
+    border: 1px solid white;
     color: var(--text-color);
     border-radius: 3px;
     outline: none;
     width: 350px;
     margin-top: 5px;
     border-radius: 50px;
-    color: #FFF;
+    color: white;
+    transition-duration: 0.4s;
 }
 
 form input:focus {
-    border: 1px solid rgba(253, 253, 253, 0.514);
+    border: 1px solid white;
     border-radius: 6px;
     animation: fadeInAnimation ease-in-out 0.3s;
     animation-iteration-count: 1;
