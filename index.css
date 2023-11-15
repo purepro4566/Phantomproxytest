@@ -42,6 +42,14 @@ body {
     color: white;
 }
 
+.logo-phantom {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 10%;
+}
+
 /* @font-face kit by Fonts2u (https://fonts2u.com) */ @font-face {font-family:"Rapier Zero Outline Italic";src:url("Rapier_Zero_Outline_Italic.eot?") format("eot"),url("Rapier_Zero_Outline_Italic.woff") format("woff"),url("Rapier_Zero_Outline_Italic.ttf") format("truetype"),url("Rapier_Zero_Outline_Italic.svg#RapierZeroOutline-Italic") format("svg");font-weight:normal;font-style:normal;}
 
 
